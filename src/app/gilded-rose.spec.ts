@@ -1,7 +1,8 @@
 import { expect } from 'chai';
 
-describe('smoke test', () => {
-  it('should pass', () => {
-    expect(true).to.be.true;
+describe('gilded-rose.ts', () => {
+
+  describe('first if block', () => {
   });
+
 });
